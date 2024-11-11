@@ -30,6 +30,27 @@ When players register on the player site, they are eligible to apply for a regis
 Since it is a register bonus, players can only apply for it once per account. If the player applies again, the system will reject the application automatically.
 Since the registration bonus is easy for players to exploit system loopholes, they can repeatedly receive bonuses by creating new accounts. You can prevent it from setting up in Risk Control . If the player account has the same information as the account that previously applied for the discount, the system will directly prevent the player from applying for the discount. For example, the same login IP, the same phone number, the same email address, and the same bank account number are not allowed. 
 
+First Deposit Bonus
+Only the player account that deposits for the first time is eligible to apply for this promotion. If the player deposits multiple times, he will not be eligible to apply.
+Since it is a first deposit bonus, one player account can only apply once. Otherwise, the system will reject the application automatically.
+For first-time bonus, the operator can decide a fixed amount or a percentage of the player's first deposit.
+Minimum deposit amount requirements, operators can set the minimum deposit for players. Only when a player's first deposit exceeds the amount will it be considered a valid deposit, and players can apply for this promotion.Please note that the minimum deposit amount is not cumulative and players must reach the limit set by the operator at one time.
+
+Daily Deposit Bonus
+Players can apply for this promotion if their deposit is successful and meets the operator's daily deposit requirements. Since it is a daily deposit, a player account can only apply once a day.
+The promotion bonus distribution mode is divided into: fixed amount and percentage based on the deposit amount. The operator can decide to use the player's deposit amount on the day as the calculation standard.
+        1. The first deposit of the day. 2. The latest deposit of the day.
+For the minimum deposit amount requirement, the operator can set the player's minimum deposit limitation. The system will check the player's "first deposit of the day" or "latest deposit of the day" according to the operator's settings. When the player's deposit amount meets the minimum deposit amount, the player will Qualify for daily 'deposit' promotion.
+
+Deposit Bonus
+This promotion is a simple deposit promotion, and the system has no restrictions on deposit time and deposit sequence. As long as the player's deposit complies with the operator's promotion rules, he is eligible to apply for the promotion. One deposit record can be used to apply for one promotion.
+Bonuses are given when you deposit, and the operator can decide a fixed amount or a percentage of the player's first deposit. The discount bonus will be sent to the player's promotion wallet.
+Minimum deposit amount requirements, operators can set the minimum deposit limitation for players. Only when the player's deposit exceeds the limitation amount will it be considered a valid deposit, and the player can apply for this promotion. Please note that the minimum deposit amount is not cumulative and players must reach the limitation set by the operator at one time.
+
+Lucky Wheel
+Players can use tickets to win bonuses. The promotion bonus obtained by players will transfer to the promotion wallet. Only when the player plays on the game providers selected by the operator and reaches the specified turnover times, the balance in the promotion wallet will be transferred to the main wallet.
+
+
 Three conditions for completing the promotion wallet
 
 1. Achieve the turnover amount set by the operator.  
