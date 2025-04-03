@@ -71,6 +71,9 @@ The operator can set up multiple languages. When the player switches the languag
 
 The operator needs to fill in the "default" content first when creating a promotion. You can then click "Add" to select the language the operator needs to add. Because it is the same promotion event, the operator only adds a new language, so he only needs to fill in the promotion content, and the promotion settings do not need to be reset.
 
-
-
+Promotions calculate Rebate interval have 3 types:
+1 If we chose daily it will take the performance of the player yesterday performance.
+For example: Player apply rebate on 2025-02-4, so this rebate will be calculated on 2025-02-3.
+2 If we chose weekly it will take the performance of the player last week performance.
+3 If we chose monthly it will take the performance of the player last month performance.
 
